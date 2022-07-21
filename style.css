@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+}
+
+.background {
+    background-color: #eeeeee;
+    width: 90%;
+    height: 77px;
+    margin: auto;
+    display: block;
+}
+
+.content {
+    width: 90%;
+    height: 90px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}   
+
+.Box-1 {
+    background-color:#7EE5DA;
+    font-size: 16px;
+    width: 281%;
+    margin-top: 2px;
+    margin-right: 2px;
+}
+
+.Box-2 {
+    background-color: #70CCC2;
+    font-size: 13px;
+    width: 169%;
+    margin-top: 2px;
+    margin-right: 2px;
+    display: block;
+}
+
+.Box-3 {
+    background-color: #62B3AA;
+    font-size: 13px;
+    width: 311%;
+    margin-top: 2px;
+    display: block;
+}
